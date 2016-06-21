@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">云信娱乐直播Demo</string>
+    <string name="my_classes">我的直播课程</string>
+    <string name="identity_tips">请选择你的身份，开始体验</string>
+    <string name="master_client">主播端</string>
+    <string name="audience_client">观众端</string>
+    <string name="live_start">开始直播</string>
+    <string name="finish_confirm">确定结束直播？</string>
+    <string name="confirm">确定</string>
+    <string name="room_id_tip">请输入直播间ID号</string>
+    <string name="send_gift">送了</string>
+    <string name="no_gift">当前还没收到礼物</string>
+    <string name="live_finish">直播已结束</string>
+    <string name="return_back">返回</string>
+    <string name="loading">连接中，请等待...</string>
+</resources>
